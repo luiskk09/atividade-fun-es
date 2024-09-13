@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\calculadoraEX\calculadoraEX\bin\Debug\net8.0\calculadoraEX.deps.json
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\calculadoraEX\calculadoraEX\bin\Debug\net8.0\calculadoraEX.dll
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\calculadoraEX\calculadoraEX\bin\Debug\net8.0\calculadoraEX.pdb
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\calculadoraEX\calculadoraEX\obj\Debug\net8.0\calculadoraEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\calculadoraEX\calculadoraEX\obj\Debug\net8.0\calculadoraEX.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\calculadoraEX\calculadoraEX\obj\Debug\net8.0\calculadoraEX.AssemblyInfo.cs
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\calculadoraEX\calculadoraEX\obj\Debug\net8.0\calculadoraEX.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\calculadoraEX\calculadoraEX\obj\Debug\net8.0\calculadoraEX.dll
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\calculadoraEX\calculadoraEX\obj\Debug\net8.0\refint\calculadoraEX.dll
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\calculadoraEX\calculadoraEX\obj\Debug\net8.0\calculadoraEX.pdb
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\calculadoraEX\calculadoraEX\obj\Debug\net8.0\ref\calculadoraEX.dll
